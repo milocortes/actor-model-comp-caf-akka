@@ -1,7 +1,7 @@
 # Implementación local con CAF
 Se presenta el código de la implementación local con CAF.
 
-### Compilación de código
+### Compilación del código
 
 ```
 make
