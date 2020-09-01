@@ -1,0 +1,1090 @@
+INFO  time: initialize in 0.37s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/build.sbt
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.43s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/project/build.properties
+  /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/project/build.properties
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Serializador.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Serializador.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:9: error: identifier expected but string constant found
+  case class "GetId"
+             ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+ago 21, 2020 10:53:51 PM scala.meta.internal.pc.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:109: error: => expected but ( found
+    case w: Work()=> {}
+                ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:109: error: => expected but ( found
+    case w: Work()=> {
+                ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[Int]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 615, 615, 625)
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:112: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:112: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:112: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:112: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:113: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:113: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[<error>]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 247, 247, 262)
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[<error>]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 247, 247, 255)
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[<error>]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 247, 247, 262)
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[<error>]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 247, 247, 255)
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[<error>]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 247, 247, 256)
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[Int]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 247, 247, 257)
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:113: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ago 21, 2020 11:23:23 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala:113: error: ; expected but = found
+      id = id + 1
+         ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ago 21, 2020 11:41:01 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[Int]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 679, 679, 689)
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala in Array[Int]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala, 679, 679, 689)
+ago 21, 2020 11:45:08 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ago 21, 2020 11:50:10 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ago 21, 2020 11:54:11 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ago 22, 2020 12:19:22 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+ago 22, 2020 12:26:29 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ago 22, 2020 12:29:56 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+ago 22, 2020 12:29:57 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+ago 22, 2020 12:30:00 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala:76: error: identifier expected but ] found
+                Await.result(future_envia_columnas, timeout.duration).asInstanceOf[]
+                                                                                   ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala:78: error: identifier expected but ] found
+                Await.result(future_envia_columnas, timeout.duration).asInstanceOf[]
+                                                                                   ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+ago 22, 2020 12:52:34 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.4s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Manager.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Serializador.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/Worker.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+ago 22, 2020 1:17:07 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 22, 2020 1:17:08 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala,line-3,offset=38
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/WorkerMain.scala,line-3,offset=38
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 22, 2020 1:17:45 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 22, 2020 1:17:46 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala,line-3,offset=70
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala,line-3,offset=70
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 22, 2020 1:17:47 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 22, 2020 1:17:47 AM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala,line-3,offset=70
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala,line-3,offset=70
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/scripts/tesina/scala/clustering-distributed-akka-jackson-future/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.42s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/build.sbt
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/build.sbt
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.55s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+ago 31, 2020 7:55:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 24
+ago 31, 2020 7:56:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 33
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:05:20 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:05:20 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-6,offset=120
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-6,offset=120
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:05:26 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:05:26 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-6,offset=262
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-6,offset=262
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:05:30 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:05:30 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-6,offset=268
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-6,offset=268
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:06:02 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:06:02 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-4,offset=191
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-4,offset=191
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:06:11 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:06:11 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-13,offset=366
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-13,offset=366
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:06:25 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:06:25 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-9,offset=328
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-9,offset=328
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:06:33 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:06:33 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-9,offset=325
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-9,offset=325
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:06:49 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:06:49 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-9,offset=324
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-9,offset=324
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:07:48 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:07:48 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-7,offset=239
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-7,offset=239
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:13:18 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:13:19 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala,line-4,offset=163
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala,line-4,offset=163
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:13:37 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:13:37 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala,line-4,offset=162
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala,line-4,offset=162
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+something's wrong: no file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala in List[Int]RangePosition(file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala, 732, 732, 741)
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+ago 31, 2020 8:38:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 766
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+ago 31, 2020 8:41:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 836
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:42:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:42:00 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-11,offset=369
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-11,offset=369
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:42:10 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:42:10 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-11,offset=428
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-11,offset=428
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:47:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:47:46 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-7,offset=252
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-7,offset=252
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:50:15 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:50:15 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-8,offset=283
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-8,offset=283
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:50:35 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:50:35 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-13,offset=410
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-13,offset=410
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:50:40 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:50:41 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-13,offset=410
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-13,offset=410
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+ERROR scalafmt: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala:13: error: expected class or object definition
+ sbt  "-Dakka.remote.artery.canonical.port=2552" "runMain WorkerMain 3 100"
+ ^
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 8:50:43 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 8:50:43 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-13,offset=410
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala,line-13,offset=410
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals
+INFO  time: initialize in 0.35s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Serializador.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/WorkerMain.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala' because it doesn't belong to a build target.
+ago 31, 2020 10:27:39 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 10:27:40 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-5,offset=157
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-distribuido-coef-clustering/src/main/scala/ManagerMain.scala,line-5,offset=157
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+INFO  shutting down Metals

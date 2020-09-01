@@ -1,0 +1,393 @@
+INFO  time: initialize in 0.33s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/project/build.properties
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/project/build.properties
+  /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/project/build.properties
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+ago 31, 2020 6:57:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 46
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+ago 31, 2020 6:58:36 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 6:58:37 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-2,offset=5
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-2,offset=5
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+ago 31, 2020 6:58:37 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 6:58:37 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-2,offset=5
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-2,offset=5
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+ago 31, 2020 6:59:03 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 6:59:03 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+ago 31, 2020 6:59:08 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 6:59:08 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+ago 31, 2020 6:59:18 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 6:59:18 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+ago 31, 2020 6:59:22 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 6:59:22 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+ago 31, 2020 6:59:22 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFORMACIÓN: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+ago 31, 2020 6:59:22 PM scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+scala.reflect.internal.FatalError: no context found for source-file:///home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala,line-7,offset=189
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+ago 31, 2020 7:07:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 267
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.38s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals
+INFO  time: initialize in 0.36s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/build.sbt
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Manager.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Main.scala
+WARN  no build target: /home/milo/Documentos/CAR/2doSemestre/Seminario/github/akka-local-coef-clustering/src/main/scala/Worker.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
